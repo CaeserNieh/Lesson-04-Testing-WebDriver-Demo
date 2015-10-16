@@ -1,0 +1,14 @@
+{
+  "name": "webdriverjs-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shing Lyu",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "selenium-webdriver": "~2.47.0"
+  }
+}
